@@ -1,0 +1,7 @@
+{
+  "preferences": {
+    "css.autoInsertVendorPrefixes": false,
+    "caniuse.enabled": false,
+    "caniuse.vendors": false
+  }
+}
