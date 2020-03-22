@@ -5,20 +5,17 @@
 	],
 	"installed_packages":
 	[
-		"AutoFileName",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
 		"Emmet",
-		"Emmet Css Snippets",
 		"Git",
 		"Github Tools",
 		"One Dark Color Scheme",
 		"One Dark Material - Theme",
 		"Package Control",
+		"PlainTasks",
 		"Sass",
-		"SCSS Expander",
-		"sublimelint",
-		"SublimeLinter"
+		"SCSS Expander"
 	]
 }
